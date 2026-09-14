@@ -13,7 +13,20 @@ Source image: `Goal Winners Support Tshirt.jpeg`, supplied by the client. The or
 
 The hero and approach visuals are original CSS illustrations created for this concept. They contain no identifiable people, client information, third-party marks, or implied endorsements.
 
-If photography is added later, record for each image:
+Prototype stock photography added for visual review:
+
+- `assets/photos/hero-community.jpg` — Unsplash CDN image URL: https://images.unsplash.com/photo-1556761175-b413da4baf72?w=1600&q=85
+- `assets/photos/home-support.jpg` — Pexels CDN image URL: https://images.pexels.com/photos/3768131/pexels-photo-3768131.jpeg?w=1200&q=85
+- `assets/photos/community-walk.jpg` — Pexels CDN image URL: https://images.pexels.com/photos/3768132/pexels-photo-3768132.jpeg?w=1200&q=85
+
+License references:
+
+- Unsplash License: https://unsplash.com/license
+- Pexels License: https://www.pexels.com/license/
+
+These are illustrative stock images for layout review only. They do not depict Goal Winners Support clients, staff, homes, or services. Confirm image-specific creator, model-release, property, trademark, and final commercial-use details before production launch. Replace with client-approved original photography where possible.
+
+For any additional photography, record for each image:
 
 - Source URL
 - Creator/photographer
