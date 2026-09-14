@@ -15,20 +15,46 @@ The project is designed to publish as a static GitHub Pages concept until the cl
 - No public collection of medical, diagnosis, or disability-sensitive information
 - Roommate matching is presented as a possible future feature, not an implemented system
 
+## Design direction
+
+**Editorial reassurance:** a long-form care journey that moves from orientation and trust to services, team, referral steps, reassurance, FAQ, and contact. The memorable anchor is the numbered support journey, reinforced by compact section labels, a teal progress line, and repeated but restrained contact prompts.
+
+The layout takes conceptual inspiration from polished editorial and conversion-led Webflow patterns, but uses original copy, client branding, local CSS illustration, and credited stock imagery.
+
 ## Elementor mapping
 
 | Prototype area | Elementor implementation |
 | --- | --- |
 | Header | Theme Builder Header + Site Logo + Nav Menu + Button |
-| Hero | Container with Heading, Text Editor, Buttons, and Image/illustration |
-| Trust strip | Inner Container with four Icon List or Text widgets |
-| Services | Three-column Container with Icon Box widgets |
-| Our approach | Two-column Container with Image/Shape + Heading + Icon List |
-| Referral process | Three-column Container with numbered Icon Boxes |
-| Audience paths | Three linked Call to Action cards |
+| Hero | Container with Heading, Text Editor, Buttons, Image, and reassurance note |
+| Proof band | Four Icon List or Text widgets in an Inner Container |
+| Audience paths | Three linked Call to Action cards near the top of the page |
+| Editorial intro | Two-column Container with a small section marker and Heading/Text Editor |
+| Services | Uneven service card composition: one image-led Icon Box + two text-led Icon Boxes |
+| Our approach | Two-column Container with Image + Heading + Icon List + expectation meta row |
+| Our team | Five-card Grid; founder card uses approved name, remaining cards stay as placeholders |
+| Referral process | Three numbered Icon Boxes with a connector line on desktop |
+| Reassurance banner | Full-width colored Container with Buttons and phone link |
+| Service areas | Two-column Container with local connection copy and provisional area note |
 | FAQ | Accordion widget |
-| Contact | Two-column Container with copy and Form widget |
-| Footer | Theme Builder Footer with Site Logo, text, buttons, and legal links |
+| Contact | Two-column Container with privacy note and Form widget |
+| Footer | Theme Builder Footer with Site Logo, legal links, social SVG links, and contact CTA |
+
+## Homepage section order
+
+1. Header and hero
+2. Proof band
+3. Audience pathways
+4. Editorial care statement
+5. Services
+6. Our approach
+7. Team
+8. Referral process
+9. “Not sure which path fits?” reassurance banner
+10. Service areas
+11. FAQ
+12. Contact
+13. Footer
 
 ## Responsive behavior
 
