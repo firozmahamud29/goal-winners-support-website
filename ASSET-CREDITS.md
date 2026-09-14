@@ -2,7 +2,14 @@
 
 ## Visual assets
 
-No third-party photographs, logos, illustrations, or media from the reference websites are used in this prototype.
+The client-supplied T-shirt image was used as the source for the Goal Winners Support Services LLC logo. The logo was extracted into transparent PNG variants for the website:
+
+- `assets/client-logo-navy.png` — navy logo for light backgrounds
+- `assets/client-logo-white.png` — white logo lockup for dark backgrounds
+- `assets/client-logo-mark-navy.png` — compact navy mark
+- `assets/client-logo-mark-white.png` — compact white mark
+
+Source image: `Goal Winners Support Tshirt.jpeg`, supplied by the client. The original source image is not committed to the public repository.
 
 The hero and approach visuals are original CSS illustrations created for this concept. They contain no identifiable people, client information, third-party marks, or implied endorsements.
 
