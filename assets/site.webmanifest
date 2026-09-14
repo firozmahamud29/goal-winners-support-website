@@ -1,0 +1,11 @@
+{
+  "name": "Goal Winners Support",
+  "short_name": "Goal Winners",
+  "icons": [
+    {"src": "/goal-winners-support-website/assets/web-app-manifest-192x192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable"},
+    {"src": "/goal-winners-support-website/assets/web-app-manifest-512x512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ],
+  "theme_color": "#18324B",
+  "background_color": "#F2F7F6",
+  "display": "standalone"
+}
