@@ -14,6 +14,8 @@ The project is designed to publish as a static GitHub Pages concept until the cl
 - Original provisional copy; all service, partner, contact, and compliance claims require client approval
 - No public collection of medical, diagnosis, or disability-sensitive information
 - Roommate matching is presented as a possible future feature, not an implemented system
+- The prototype is intentionally provisional: phone, email, geography, service details, team data, social URLs, and referral claims require client approval before launch
+- The public inquiry form is concept-only and should be connected to an approved WordPress form service with privacy, consent, spam, validation, status, and retention controls
 
 ## Design direction
 
